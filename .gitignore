@@ -186,3 +186,12 @@ eval/
 qdrant_storage/
 .crossnote
 testing.ipynb
+
+# mem0 local index
+.mem0/faiss_index/
+.mem0/manifest.json
+
+# mem0 local index
+.mem0/faiss_index/
+.mem0/manifest.json
+.mem0/imported/
